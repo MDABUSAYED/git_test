@@ -11,3 +11,5 @@ function sum (n){
 }
 
 console.log( sum( numbers ) );
+
+//added by user1
