@@ -1,5 +1,6 @@
-var numbers = [1,2,3,4,5]
+var numbers = [1,2,3,4,5];
 
+//routine to calculate the sum
 function sum (n){
 	var summation = 0;
 	
